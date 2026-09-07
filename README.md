@@ -405,15 +405,15 @@ Sales_Performance_Dashboard/
 
 ### Executive Sales & Profit Overview
 
-![Executive Sales & Profit Dashboard](Images/Dashboard_1_Executive.png)
+![Executive Sales & Profit Dashboard](Images/Dashboard_Screenshots/Dashboard_1_Executive.png)
 
 ### Product & Customer Insights
 
-![Product & Customer Dashboard](Images/Dashboard_2_Product_Customer.png)
+![Product & Customer Dashboard](Images/Dashboard_Screenshots/Dashboard_2_Product_Customer.png)
 
 ### Regional & Operations Performance
 
-![Regional & Operations Dashboard](Images/Dashboard_3_Regional_Operations.png)
+![Regional & Operations Dashboard](Images/Dashboard_Screenshots/Dashboard_3_Regional_Operations.png)
 
 ---
 
